@@ -6,5 +6,9 @@
             "email": "shohan12224943@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "psr-4":
+    {
+        "ShohanPhpBasicWebServer": "src/"    
+    }
 }
